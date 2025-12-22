@@ -45,4 +45,4 @@ This project focuses on analyzing vendor performance based on sales data. It inv
 - Final insights PDF report
 
 ## 📬 Contact
-For queries or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/hrishit-b-5188951b6/).
+For queries or collaboration, feel free to connect via [LinkedIn](https://www.linkedin.com/in/yash-raj-singh-263a52294/).
